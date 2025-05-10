@@ -2,7 +2,7 @@ Starbucks Website Replica 🌟
 A visually appealing and responsive replica of the official Starbucks website, built using only HTML and CSS. This project focuses on practicing layout techniques, responsive design, and component structuring without JavaScript.
 
 🌐 Live Demo
-🔗 Click here to explore the Starbucks Website Replica
+🔗 [Click here to explore the Starbucks Website Replica](https://starbucks-replica-mighty.vercel.app/)
 
 🖼️ Screenshots:
 📋 Homepage View
